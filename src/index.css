@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+:root{
+  --Primary:rgba(81, 63, 242, 1);
+  --Secondary:rgba(135, 240, 229, 1);
+  
+}

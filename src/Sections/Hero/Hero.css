@@ -1,0 +1,27 @@
+.Secondary  {
+    background-color: var(--Secondary);
+    border-radius: 0.5rem;
+    width: 100%;
+    overflow-x: hidden;
+    
+    box-sizing: border-box;
+
+}
+.Hero{
+    color:var(--Secondary);
+}
+.btn1{
+    background-color: var(--Secondary);
+    color:var(--Primary);
+}
+.btn2{
+    background-color:var(--Primary); 
+    color:var(--Secondary);
+    padding:  2rem 0.75rem;
+    margin: 0.2rem;
+    
+}
+.App{
+    color: var(--Primary);
+
+}
